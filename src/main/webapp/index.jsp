@@ -42,9 +42,9 @@
         <div class="colorlib-table-cell js-fullheight">
           <div class="row no-gutters">
             <div class="col-md-12 text-center">
-              <h1 class="mb-4"><a href="index.html" class="logo">Serein OS</a></h1>
+              <h1 class="mb-4"><a href="index.jsp" class="logo">Serein OS</a></h1>
               <ul>
-                <li class="active"><a href="index.html"><span><small>01</small>Home</span></a></li>
+                <li class="active"><a href="index.jsp"><span><small>01</small>Home</span></a></li>
                 <li><a href="about.html"><span><small>02</small>Under Construction</span></a></li>
                 <li><a href="services.html"><span><small>03</small>Under Construction</span></a></li>
                 <li><a href="portfolio.html"><span><small>04</small>Under Construction</span></a></li>
@@ -63,7 +63,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="colorlib-navbar-brand">
-                <a class="colorlib-logo" href="index.html"><span class="logo-img" style="background-image: url(images/person_1.jpg);"></span>Serein OS</a>
+                <a class="colorlib-logo" href="index.jsp"><span class="logo-img" style="background-image: url(images/person_1.jpg);"></span>Serein OS</a>
               </div>
               <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
             </div>
