@@ -1,7 +1,7 @@
 # Not completed. check back later
 
 
-### Check it out https://sereinos.cf
+### Check it out https://parthpurvesh.tk
 
 So now, since you're here, I suppose you've decided to make a website like mine. No issues my friend, I'll guide you.
 
