@@ -48,8 +48,8 @@
                 <li><a href="about.html"><span><small>02</small>Under Construction</span></a></li>
                 <li><a href="services.html"><span><small>03</small>Under Construction</span></a></li>
                 <li><a href="portfolio.html"><span><small>04</small>Under Construction</span></a></li>
-                <li><a href="blog.html"><span><small>05</small>Under Construction</span></a></li>
-                <li><a href="contact.html"><span><small>06</small>Under Construction</span></a></li>
+                <li><a href="https://sereinos.sourceforge.io/"><span><small>05</small>Downloads</span></a></li>
+                <li><a href="https://gerrit.sereinos.cf/"><span><small>06</small>Gerrit Code Review</span></a></li>
               </ul>
             </div>
           </div>
@@ -117,7 +117,7 @@
                   </ul>
                   <h5>Contact me here!</h5>
                   <p>Email: <a href="#">sereinrom@email</a></p>
-                  <p>Phone: <a href="#">(123)-456-789</a></p>
+                  <p>Phone: <a href="#">Lmao not yet xD</a></p>
                 </div>
               </div>
             </div>
@@ -184,9 +184,9 @@
               </div>
             </a>
             <div class="text">
-              <h4 class="subheading">Illustration</h4>
-              <h2 class="heading"><a href="portfolio-single.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+              <h4 class="subheading">Status Bar</h4>
+              <h2 class="heading"><a href="portfolio-single.html">Traffic Indicators</a></h2>
+              <p>The power to see your internet speed, on the top of your screen, always.</p>
               <p><a href="#">View Project</a></p>
             </div>
           </div>
@@ -197,9 +197,9 @@
               </div>
             </a>
             <div class="text order-1">
-              <h4 class="subheading">Application</h4>
-              <h2 class="heading"><a href="portfoli-singleo.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+              <h4 class="subheading">Status Bar</h4>
+              <h2 class="heading"><a href="portfoli-singleo.html">Battery Styles</a></h2>
+              <p>Square, Circle or Portrait. Now choose how you want your phone to show it's battery left.</p>
               <p><a href="#">View Project</a></p>
             </div>
           </div>
@@ -210,9 +210,9 @@
               </div>
             </a>
             <div class="text">
-              <h4 class="subheading">Web Design</h4>
-              <h2 class="heading"><a href="portfolio-single.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+              <h4 class="subheading">Status Bar</h4>
+              <h2 class="heading"><a href="portfolio-single.html">Time and Date</a></h2>
+              <p>Get power to choose how you see the Time and Date, on your Status Bar</p>
               <p><a href="#">View Project</a></p>
             </div>
           </div>
@@ -223,9 +223,9 @@
               </div>
             </a>
             <div class="text order-1">
-              <h4 class="subheading">Application</h4>
-              <h2 class="heading"><a href="portfoli-singleo.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+              <h4 class="subheading">UI Tweaks</h4>
+              <h2 class="heading"><a href="portfoli-singleo.html">Power Menu</a></h2>
+              <p>Choose what you want to see when you press the Power Button. Advanced Reboot, Screenshot, or anything else.</p>
               <p><a href="#">View Project</a></p>
             </div>
           </div>
@@ -236,9 +236,9 @@
               </div>
             </a>
             <div class="text">
-              <h4 class="subheading">Animation</h4>
-              <h2 class="heading"><a href="portfoli-singleo.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+              <h4 class="subheading">UI Tweaks</h4>
+              <h2 class="heading"><a href="portfoli-singleo.html">Theme Customisations</a></h2>
+              <p>Customise your themes, just the way you like it. Serein brings back the old and trusted Omni Themes.</p>
               <p><a href="#">View Project</a></p>
             </div>
           </div>
@@ -249,9 +249,9 @@
               </div>
             </a>
             <div class="text order-1">
-              <h4 class="subheading">Branding</h4>
-              <h2 class="heading"><a href="portfoli-singleo.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+              <h4 class="subheading">The Team</h4>
+              <h2 class="heading"><a href="portfoli-singleo.html">The Heart Of Serein</a></h2>
+              <p>Know the developers of your favourite ROM, with direct links to their Telegram accounts, right under this panel.</p>
               <p><a href="#">View Project</a></p>
             </div>
           </div>
@@ -272,7 +272,7 @@
               <div class="block-18">
                 <div class="text">
                   <span class="ftco-label">Developers</span>
-                  <strong class="number" data-number="10">0</strong>
+                  <strong class="number" data-number="7">0</strong>
                 </div>
               </div>
             </div>
@@ -282,7 +282,7 @@
               <div class="block-18">
                 <div class="text">
                   <span class="ftco-label">Devices supported</span>
-                  <strong class="number" data-number="5">0</strong>
+                  <strong class="number" data-number="2">0</strong>
                 </div>
               </div>
             </div>
