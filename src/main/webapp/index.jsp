@@ -121,8 +121,28 @@
                 </div>
               </div>
             </div>
-          </div>
-        </div>
+          
+         <div class="row d-flex justify-content-end mt-5">
+          	<div class="col-md-10">
+          		<div class="profile ftco-animate">
+	          		<h2 class="mb-4">The Team</h2>
+	          		<h4 class="mb-4">Meet Team Kek</h4>
+	          		<p>Ahh, so below, is a list of the people who bring Serein to you</p>
+	          		<div class="row my-5">
+		          		<div class="col-md-6">
+		          			<p><strong>Name:</strong> <span>Myron Viegas</span></p>
+		          			<p><strong>About:</strong> <span>Loves to believe he's the lead developer. Also, give him a spare Netflix account if anyone has one, because he's poverty stricken</span></p>
+		          			<p><strong>Role:</strong> <span>Lead dev, and Joker (quite literally)</span></p>
+		          		</div>
+		          		<div class="col-md-6">
+		          			<p><strong>Name:</strong> <span>Beckham Muff</span></p>
+		          			<p><strong>Address:</strong> <span>88 West 21th Street, Suite 721 New York NY 10016</span></p>
+		          			<p><strong>Phone:</strong> <span>(123)-456-789</span></p>
+		          		</div>
+	          		</div>
+          		</div>
+          	</div>
+         </div>
       </section>
 
       <section class="ftco-section">
