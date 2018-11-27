@@ -121,6 +121,7 @@
                 </div>
               </div>
             </div>
+            </div>
           
          <div class="row d-flex justify-content-end mt-5">
           	<div class="col-md-10">
@@ -138,11 +139,11 @@
 		          			<p><strong>Name:</strong> <span>Beckham Muff</span></p>
 		          			<p><strong>Address:</strong> <span>88 West 21th Street, Suite 721 New York NY 10016</span></p>
 		          			<p><strong>Phone:</strong> <span>(123)-456-789</span></p>
-		          		</div>
+		          		</div> 		
 	          		</div>
           		</div>
           	</div>
-         </div>
+          </div>
       </section>
 
       <section class="ftco-section">
